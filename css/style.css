@@ -1,0 +1,140 @@
+
+body{
+	background-color: #e3ecf0;
+	font-family: "roboto",lfont;
+}
+p{
+	font-size: 20px;
+}
+
+nav{
+	background-color: #34697b;
+	
+}
+.navbar-brand{
+	color: aliceblue;
+}
+nav ul li a{
+	color: aliceblue;
+}
+
+nav ul li a:hover{
+	color:lightblue;
+}
+.navbar-brand:hover{
+color:lightblue;	
+}
+
+.carousel-inner{
+height:70%;	
+}
+
+.carousel-item img{
+height: 100%
+}
+
+
+.content{
+	margin-top: 30px;
+}
+
+.like ul,.most-read ul{
+	border:1px solid #2b5464;
+	text-align: right;
+	padding-top: 20px;
+	background-color: white;
+	padding-right: 20px;
+	
+}
+
+.like h1{
+	border-bottom: solid 3px #16c1f5;
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+.link{
+	cursor:pointer;
+	margin-top: 15px;
+	background-color:white;
+	padding: 15px;
+}
+.content ul li{
+	padding:10px 0; 
+}
+
+.article{
+	text-align: right;
+	background-color: white;
+	padding: 30px 20px;
+	margin-top: 20px;
+	cursor:pointer;
+	color:#515963;
+	
+	
+}
+.article h3{
+	margin-top: 10px;
+}
+
+.article h3,.article h2{
+	color:#2b5464;
+	font-weight: bold;
+}
+.article-container{
+	
+	background-color: rgba(0,0,0,0.6);
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	display: none;
+	
+}
+.box {
+	
+	
+	
+	margin: auto;
+	background-color: white;
+	
+	width: 100%
+}
+
+.articles{
+	
+	position: relative;
+	
+	
+}
+
+#close
+{
+	position: fixed;
+	left: 20px;
+	top: 20px;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.description{
+	display: none;
+}
+.list1 li{
+margin-top: 10px;	
+}
+
+.title{
+	text-align: center;
+	margin: 50px 0 ;
+	
+}
+.title h1{
+	font-family: "roboto",bfont;
+	font-weight: bold;
+	font-size:30 px;
+}
+.p2{
+	margin-top: 100px;
+}
+
